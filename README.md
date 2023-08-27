@@ -10,7 +10,6 @@ This repository contains a machine learning project for predicting the possibili
 
 The dataset used for this project consists of several features, including blood pressure,cholesterol and Fasting Blood Sugar along with the target variable indicating whether a heart attack occurred or not. you can easily find publicly available heart attack datasets online or in machine learning libraries such as scikit-learn.
 
-<<<<<<< HEAD
 ## Result 
 
 After checking and changing the parameters of each of the above methods, I was able to obtain the highest percentage of accuracy for each of the methods.
@@ -20,16 +19,7 @@ But in general, all four methods used reached the same level of accuracy (93 per
 You can see the final result in the table below:
 ![image](./Confusion_matrix.png)
 
-=======
-## Dependencies
 
-To run the code and reproduce the results, you will need the following dependencies:
-
-- Python (version 3.6 or higher)
-- NumPy
-- Pandas
-- Scikit-learn
->>>>>>> 23f3bd4fb0af5e93fcface36c0f5b5a432cbbb60
 
 
 
